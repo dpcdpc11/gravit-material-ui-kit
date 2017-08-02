@@ -29,3 +29,5 @@ Material Design sticker sheet for Gravit Designer inspired by the [Google Materi
 - [X] Index Scroller
 
 and many more to be added soon!
+
+**Enjoy creating some awesome UI using Gravit Designer!**
