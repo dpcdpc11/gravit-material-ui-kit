@@ -27,6 +27,15 @@ Material Design sticker sheet for Gravit Designer inspired by the [Google Materi
 - [X] Text Fields
 - [X] Character Count
 - [X] Index Scroller
+- [X] Tabs
+- [X] Notifications
+- [X] Pickers
+- [X] Bottom Toolbar
+- [X] Dark Theme - Mobile
+- [X] Dark Theme - Tablet 7”
+- [X] Dark Theme - Tablet 9”
+- [X] Dark Theme - Desktop
+- [X] Light Theme - Mobile
 
 and many more to be added soon!
 
