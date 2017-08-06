@@ -38,7 +38,12 @@ Material Design sticker sheet for Gravit Designer inspired by the [Google Materi
 - [X] SearchBar - Mobile
 - [X] SearchBar - Tablet
 - [X] Light Theme - Mobile
+- [X] Light Theme - Mobile - landscape
+- [X] Light Theme - Tablet 7"
+- [X] Light Theme - Tablet 9"
+- [X] Light Theme - Desktop
+- [X] Bottom Navigation - Mobile
+- [X] Bottom Navigation - Mobile- landscape
+- [X] Bottom Navigation - Tablet
 
-and many more to be added soon!
-
-**Enjoy creating some awesome UI using Gravit Designer!**
+**Now enjoy creating some awesome UI using Gravit Designer and the Material UI Kit!**
