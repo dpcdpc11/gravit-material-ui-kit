@@ -1,5 +1,5 @@
 # Material Design UI Kit for Gravit Designer
-Material Design sticker sheet for Gravit Designer inspired by the [Google Material Design Sticker Sheet](https://material.io/guidelines/resources/sticker-sheets-icons.html).
+Material Design sticker sheet for Gravit Designer based on the [Google Material Design Sticker Sheet](https://material.io/guidelines/resources/sticker-sheets-icons.html).
 
 ## Components included
 
